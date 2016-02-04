@@ -29,7 +29,7 @@ public class GuardianFragment extends FamilyMemberFragment {
     private EditText mEnterLastName;
     private Context mAppContext;
     //ProfileJSONStorer mStorer;
-    // Git hub commit example
+
 
     //@Override
     //public void onCreate(Bundle savedInstanceState) {
